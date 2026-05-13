@@ -25,6 +25,7 @@ Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
 
+<img width="1205" height="709" alt="image" src="https://github.com/user-attachments/assets/9622f8d7-031c-4893-a79a-1cf0216a6b51" />
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
@@ -33,6 +34,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
  dsniff:
 
+<img width="353" height="128" alt="Screenshot 2026-05-12 200712" src="https://github.com/user-attachments/assets/feec4610-4a3c-41dd-8ca9-7e62a8daf7b6" />
 
 
 
@@ -40,6 +42,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 
 In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
+<img width="614" height="435" alt="Screenshot 2026-05-12 203632" src="https://github.com/user-attachments/assets/9de302b4-a68b-436b-9544-2d7d7e840c4c" />
 
 
 
@@ -47,10 +50,16 @@ In Metasploit open the ftp console as below. Also you can try other ftp websites
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
+<img width="920" height="1030" alt="VirtualBox_kali_12_05_2026_19_50_51" src="https://github.com/user-attachments/assets/fe6fbb23-e143-4843-b363-6e22f9f22559" />
 
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
+<img width="920" height="1030" alt="image" src="https://github.com/user-attachments/assets/69455035-c734-41a8-bca6-4b74b11a0d6d" />
+
+
+<img width="1920" height="1200" alt="Screenshot_2026-05-12_23_51_12" src="https://github.com/user-attachments/assets/03f879d6-c113-4be0-a5fe-f2de33fbebdb" />
+
 
 
 ## RESULT:
